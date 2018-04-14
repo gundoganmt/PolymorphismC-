@@ -1,0 +1,10 @@
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\BaseDBLibrary\bin\Debug\BaseDBLibrary.dll
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\BaseDBLibrary\bin\Debug\BaseDBLibrary.pdb
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\BaseDBLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\BaseDBLibrary\obj\Debug\BaseDBLibrary.dll
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\BaseDBLibrary\obj\Debug\BaseDBLibrary.pdb
+C:\Users\mahmut\Desktop\DBForm\BaseDBLibrary\bin\Debug\BaseDBLibrary.dll
+C:\Users\mahmut\Desktop\DBForm\BaseDBLibrary\bin\Debug\BaseDBLibrary.pdb
+C:\Users\mahmut\Desktop\DBForm\BaseDBLibrary\obj\Debug\BaseDBLibrary.dll
+C:\Users\mahmut\Desktop\DBForm\BaseDBLibrary\obj\Debug\BaseDBLibrary.pdb
+C:\Users\mahmut\Desktop\DBForm\BaseDBLibrary\obj\Debug\BaseDBLibrary.csprojResolveAssemblyReference.cache

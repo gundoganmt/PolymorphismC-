@@ -1,0 +1,13 @@
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\bin\Debug\OLEDBLibrary.dll
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\bin\Debug\OLEDBLibrary.pdb
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\bin\Debug\BaseDBLibrary.dll
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\bin\Debug\BaseDBLibrary.pdb
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\obj\Debug\OLEDBLibrary.dll
+C:\Users\Burak GUR\Documents\Visual Studio 2008\Projects\DBForm\OLEDBLibrary\obj\Debug\OLEDBLibrary.pdb
+C:\Users\mahmut\Desktop\DBForm\OLEDBLibrary\obj\Debug\OLEDBLibrary.dll
+C:\Users\mahmut\Desktop\DBForm\OLEDBLibrary\obj\Debug\OLEDBLibrary.pdb
+C:\Users\mahmut\Desktop\DBForm\OLEDBLibrary\bin\Debug\OLEDBLibrary.dll
+C:\Users\mahmut\Desktop\DBForm\OLEDBLibrary\bin\Debug\OLEDBLibrary.pdb
+C:\Users\mahmut\Desktop\DBForm\OLEDBLibrary\bin\Debug\BaseDBLibrary.dll
+C:\Users\mahmut\Desktop\DBForm\OLEDBLibrary\bin\Debug\BaseDBLibrary.pdb
